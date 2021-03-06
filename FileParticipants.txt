@@ -1,0 +1,8 @@
+1, Maria Serbanescu,5
+2, Dan Mihailescu,19
+3, Geo Protopopescu,49
+4, Adrian Bitanescu,29
+5, Maria Ionescu,15
+6, Dan Ionescu,29
+7, Geo Popescu,49
+8, Adrian Popescu,49
